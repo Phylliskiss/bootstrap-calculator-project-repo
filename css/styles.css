@@ -1,0 +1,41 @@
+.header{
+	background-color: gray;
+	height: 50px;
+	
+}
+h2{
+	font-weight:light;
+	/* padding-bottom: 10px; */
+}
+.header h2{
+	color: #fff;
+}
+.gray{
+	background-color: lightgray;
+	border-right: 1px solid;
+	border-top: 1px solid;
+	border-color: rgb(148, 147, 147);
+
+}
+
+.yellow{
+	background-color: #ff9100;
+	border-right: 1px solid;
+	border-top: 1px solid;
+	border-color: gray;
+}
+
+.mykeys{
+	height: 30px;
+	margin:0px 0px 15px 0px;
+
+	}
+
+.yellow h2{
+		color: white;
+	}
+
+.container{
+		width: 580px;
+		margin-top:60px ;
+	}
